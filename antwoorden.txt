@@ -2,10 +2,10 @@ ANTWOORDEN TOETS GIT & GITHUB
 Naam: Seppe De Keukelaere
 
 OPDRACHT 3
-1.
-2.
-3.
-4.
+1. 8c5cb4f
+2. 7189b33 Homepage naar versie 2
+3. git commit index.html 7189b33
+4. git show 7189b33 (korte hash van commit)
 
 OPDRACHT 7
 a.
