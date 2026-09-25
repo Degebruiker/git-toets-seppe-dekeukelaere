@@ -8,6 +8,6 @@ OPDRACHT 3
 4. git show 7189b33 (korte hash van commit)
 
 OPDRACHT 7
-a.
-b.
-c.
+a. Ik deed nog geen pull request dus was mijn map niet op de laatste versie.
+b. Git commit maakt het bestand klaar terwijl push het werkelijk op de repository zet.
+c. Zodat we niet elkaar voor de voeten lopen, als de eene iets verandert moet iedereen pullen wat voor problemen zorgt.
